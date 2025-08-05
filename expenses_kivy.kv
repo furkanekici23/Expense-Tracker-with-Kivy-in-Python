@@ -1,0 +1,55 @@
+<ExpenseForm>:
+    orientation: 'vertical'
+    padding: 10
+    spacing: 10
+
+    TextInput:
+        id: expense_type
+        hint_text: "Expense Type (cash/card)"
+        multiline: False
+        on_text_validate: amount.focus = True
+
+    TextInput:
+        id: amount
+        hint_text: "Amount"
+        multiline: False
+        input_filter: 'float'
+        on_text_validate: explanation.focus = True
+
+    TextInput:
+        id: explanation
+        hint_text: "Explanation"
+        multiline: False
+        on_text_validate: card_name.focus = True
+
+    TextInput:
+        id: card_name
+        hint_text: "Card Name (if card used in this expense)"
+        multiline: False
+        on_text_validate: root.submit_expense()
+
+    Button:
+        text: "Submit Expense"
+        on_release: root.submit_expense()
+       
+
+    Label:
+        text: root.status_text
+        color: 0, 1, 0, 1
+
+    Button:
+        text: "Show All Expenses"
+        on_release: root.show_all_expenses()
+       
+
+    Button:
+        text: "Show Today's Expenses"
+        on_release: root.show_today_expenses()
+       
+    Button:
+        text: "Show Total Expenses By Type"
+        on_release: root.show_total_expenses_by_type()
+   
+    Button:
+        text: "Show Total Expenses By Card"
+        on_release: root.show_total_expenses_by_card()

@@ -1,0 +1,12 @@
+2025-07-29 - 90.0 - dm - card: world
+2025-07-29 - 154.0 - starbucks - card: metropol
+2025-07-29 - 390.0 - yemek - card: world
+2025-07-29 - 60.0 - cips - card: world
+2025-07-30 - 350.0 - yemek - card: world
+2025-07-30 - 60.0 - cips - card: world
+2025-07-30 - 1100.0 - bilet - card: world
+2025-07-31 - 100.0 - bakkal - cash
+2025-07-31 - 154.0 - starbucks - card: metropol
+2025-07-31 - 92.0 - dm - card: world
+2025-07-31 - 215.0 - baklava - cash
+2025-08-01 - 154.0 - starbucks - card: metropol
