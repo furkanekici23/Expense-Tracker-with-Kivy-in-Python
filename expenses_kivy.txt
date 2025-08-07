@@ -10,3 +10,32 @@
 2025-07-31 - 92.0 - dm - card: world
 2025-07-31 - 215.0 - baklava - cash
 2025-08-01 - 154.0 - starbucks - card: metropol
+2025-08-01 - 429.0 - yemek - card: metropol
+2025-08-01 - 244.0 - yemek - card: metropol
+2025-08-01 - 90.0 - dm - cash
+2025-08-01 - 20.0 - wc - cash
+2025-08-02 - 500.0 - kahvaltı - cash
+2025-08-02 - 50.0 - müzekart - cash
+2025-08-02 - 120.0 - limonata - cash
+2025-08-02 - 190.0 - patates - cash
+2025-08-02 - 140.0 - magnum - cash
+2025-08-02 - 25.0 - çay - cash
+2025-08-02 - 1000.0 - yemek - cash
+2025-08-02 - 300.0 - yemek - card: world
+2025-08-02 - 90.0 - dm - cash
+2025-08-02 - 15.0 - çakmak - cash
+2025-08-03 - 715.0 - yemek - cash
+2025-08-03 - 264.0 - şarj kablosu - cash
+2025-08-03 - 20.0 - su - cash
+2025-08-04 - 95.0 - dm - cash
+2025-08-04 - 276.0 - yemek - card: metropol
+2025-08-04 - 1000.0 - annem - cash
+2025-08-05 - 2000.0 - babam_ayakkabı - cash
+2025-08-05 - 329.0 - yemek - card: metropol
+2025-08-05 - 310.0 - yemek - card: metropol
+2025-08-05 - 10.0 - cips - cash
+2025-08-05 - 154.0 - starbucks - card: metropol
+2025-08-06 - 256.0 - yemek - card: metropol
+2025-08-06 - 52.0 - mcflury - card: metropol
+2025-08-06 - 365.0 - starbucks - card: metropol
+2025-08-07 - 97.0 - dm - cash

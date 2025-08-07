@@ -29,9 +29,8 @@
         on_text_validate: root.submit_expense()
 
     Button:
-        text: "Submit Expense"
+        text: "Submit Expense (As Today's Expense)"
         on_release: root.submit_expense()
-       
 
     Label:
         text: root.status_text
@@ -40,16 +39,23 @@
     Button:
         text: "Show All Expenses"
         on_release: root.show_all_expenses()
-       
 
     Button:
         text: "Show Today's Expenses"
         on_release: root.show_today_expenses()
-       
+
     Button:
         text: "Show Total Expenses By Type"
         on_release: root.show_total_expenses_by_type()
-   
+
     Button:
         text: "Show Total Expenses By Card"
         on_release: root.show_total_expenses_by_card()
+
+    Button:
+        text: "Show Expenses Of A Certain Day"
+        on_release: root.show_expenses_by_date()
+
+    Button:
+        text: "Add Expense By Date"
+        on_release: root.add_expense_by_date_popup()
